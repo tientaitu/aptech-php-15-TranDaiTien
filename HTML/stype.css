@@ -1,0 +1,70 @@
+.Header{
+    height:200px ;
+    background-color:antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items:center ; 
+}
+.Headerred{
+    width:30%;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items:center ; 
+    margin: 10px;
+}
+.headerred1{
+    width: 90%;
+    height: 150px;
+    background-color:red;
+    
+}
+.Headerpink{
+    width:70%;
+    height:150px ;
+    background-color: pink;
+    display: flex;
+    justify-content: center;
+    align-items:center ; 
+    margin: 20px;
+}
+
+.content1{
+    width:95%;
+    height:150px;
+    background-color:orange;
+    display: flex;
+    justify-content: center;
+    align-items:center ; 
+
+
+}
+.nal{
+    width:30%;
+    height: 100px;
+    background-color:blue;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin:10px;
+
+}
+.nal2{
+    width: 50%;
+    height: 100px;
+    background-color:yellow;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin:10px;
+}
+.Ten{
+    color:blanchedalmond ;
+    text-align:center;
+}
+.content{
+    height: 500px;
+}
+.li{
+    color:blue;
+}
