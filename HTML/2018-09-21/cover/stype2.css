@@ -1,0 +1,11 @@
+.Header--height{
+    height: 200px;
+}
+.body-custom{
+    height:100vh;
+}
+
+.Border-bottom {
+    border-bottom: 0 !important;
+    width: 1px;
+  }
