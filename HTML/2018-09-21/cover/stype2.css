@@ -6,6 +6,6 @@
 }
 
 .Border-bottom {
-    border-bottom: 0 !important;
-    width: 1px;
+    width: 5px solid  #fff;
   }
+  
