@@ -1,6 +1,8 @@
 $(document).ready(function() {
   $("#js-div-table").before(
-    '<h1 class="d-flex justify-content-center text-info">' + b.message + "</h1>"
+    '<h1 class="d-flex justify-content-center   text-info">' +
+      b.message +
+      "</h1>"
   );
 });
 
